@@ -108,7 +108,7 @@ def main():
     # Demonstrate interaction with context maintenance
     messages = [
         "Hello! Can you help me today?",
-        "What's the weather like?",
+        "What's the time difference between Edmonton, Canada and Banglore?",
         "Thank you for your help!"
     ]
     
